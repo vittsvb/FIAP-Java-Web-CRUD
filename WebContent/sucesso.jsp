@@ -7,7 +7,9 @@
 <title>SUCESSO</title>
 </head>
 <body>
-<h3>Cadastrado com Sucesso!</h3>
-
+	<h3>Cadastrado com Sucesso!</h3>
+	<a href="./cadastro.html">
+		<button><< Voltar</button>
+	</a>
 </body>
 </html>

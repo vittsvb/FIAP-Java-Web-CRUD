@@ -25,7 +25,9 @@
 			<td>${funcionario.salario}</td>
 		</tr>
 		<tr>
-			<td><input type="button" value="Voltar" /></td>
+			<td><a href="./visualizar.html">
+		<button><< Voltar</button>
+	</a></td>
 		</tr>
 	</table>
 
